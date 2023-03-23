@@ -1,7 +1,7 @@
 # o365creeper_ps1
 
 ### Description
-This tool is the powershell version of o365creeper.py. The more information about the python version can be found at https://github.com/LMGsec/o365creeper.
+This tool is the powershell version of o365creeper.py, which is used to validate the email address against the Office 365 tenants. The more information about the python version can be found at https://github.com/LMGsec/o365creeper.
 
 
 ### Examples
